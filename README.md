@@ -1,2 +1,3 @@
-# games
-Information on various game servers I manage
+# Games
+
+Information is available on the [Wiki](https://github.com/SketchNI/games/wiki)
